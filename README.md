@@ -1,4 +1,4 @@
-# Netflix_Movies_and_TV_Shows_Clustering_Capstone_Project
+# Netflix-Movies-and-TV-Shows-Clustering-Capstone-Project
 This is the Capstone project which is a part of my Data Science training at AlmaBetter.
 
 # Introduction:
